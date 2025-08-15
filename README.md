@@ -1,4 +1,4 @@
-FaceFusion
+FaceFusion for Vast.ai
 ==========
 
 > Industry leading face manipulation platform.
